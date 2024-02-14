@@ -1,0 +1,69 @@
+﻿@model List<Product>
+@if(TempData["success"]!=null)
+{
+    <h2>@TempData["success"]</h2>
+}
+@* <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" /> *@
+<div class="container">
+<div class="row pt-4 pb-3">
+<div class="col-6">
+    <h2 class="primary-text">Products List</h2>
+</div>
+<div class="col-6 text-end">
+            <a asp-controller="Product" asp-action="Create" class="btn btn-primary btn-lg">
+                <i class="bi bi-plus"></i> Create new Products
+    </a>
+</div>
+</div>
+</div>
+
+<table class=" table table-striped table-bordered  table-lg">
+    <thead>
+        <tr>
+            <th>ID</th>
+             <th>Title</th>
+            <th>Author</th>
+            <th>Description</th>
+            <th>ISBN</th>
+            <th>ListPrice</th>
+            <th>Price</th>
+            <th>Price 50</th>
+            <th>Price 100</th>
+            <th>CatogoryId</th>
+            <th>ImageUrl</th>
+
+        </tr>
+    </thead>
+   
+    <tbody>
+        @foreach (var obj in Model)
+        {
+            <tr>
+                <td>@obj.Id</td>
+                <td>@obj.Title</td>
+                <td>@obj.author</td>
+                <td>@obj.Description</td>
+                <td>@obj.ISBN</td>
+                <td>@obj.ListPrice</td>
+                <td>@obj.Price</td>
+                <td>@obj.Price50</td>
+                <td>@obj.Price100</td>
+                <td>@obj.CategoryId</td>
+                <td>@obj.Imageurl</td>
+
+
+                <td >
+                    <div class="w-75 btn-group" role="group">
+                        <a class="btn btn-primary btn-lg mx-2" asp-controller="Product" asp-action="Edit" asp-route-id="@obj.Id">
+                            <i class="bi bi-pencil-square" ></i>Edit
+                        </a>
+                        <a class="btn btn-danger btn-lg mx-2" asp-controller="Product" asp-action="Delete" asp-route-id="@obj.Id">
+                            <i class="bi bi-archive-fill"></i>Delete
+                        </a>
+                    </div>
+                </td>
+                
+            </tr>
+        }
+    </tbody>
+</table>
