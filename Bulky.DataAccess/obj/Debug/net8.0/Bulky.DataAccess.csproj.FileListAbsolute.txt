@@ -18,3 +18,23 @@ C:\Users\Ganesh Revanna\source\repos\Bulkproject\Bulky.DataAccess\obj\Debug\net8
 C:\Users\Ganesh Revanna\source\repos\Bulkproject\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.pdb
 C:\Users\Ganesh Revanna\source\repos\Bulkproject\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.genruntimeconfig.cache
 C:\Users\Ganesh Revanna\source\repos\Bulkproject\Bulky.DataAccess\obj\Debug\net8.0\ref\Bulky.DataAccess.dll
+E:\ASP.NET CORE MVC\Bulkybooksprojects\BULKYBOOKSELFMVC\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.deps.json
+E:\ASP.NET CORE MVC\Bulkybooksprojects\BULKYBOOKSELFMVC\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.runtimeconfig.json
+E:\ASP.NET CORE MVC\Bulkybooksprojects\BULKYBOOKSELFMVC\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.dll
+E:\ASP.NET CORE MVC\Bulkybooksprojects\BULKYBOOKSELFMVC\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.pdb
+E:\ASP.NET CORE MVC\Bulkybooksprojects\BULKYBOOKSELFMVC\Bulky.DataAccess\bin\Debug\net8.0\Bulky.models.dll
+E:\ASP.NET CORE MVC\Bulkybooksprojects\BULKYBOOKSELFMVC\Bulky.DataAccess\bin\Debug\net8.0\Bulky.utilities.dll
+E:\ASP.NET CORE MVC\Bulkybooksprojects\BULKYBOOKSELFMVC\Bulky.DataAccess\bin\Debug\net8.0\Bulky.models.pdb
+E:\ASP.NET CORE MVC\Bulkybooksprojects\BULKYBOOKSELFMVC\Bulky.DataAccess\bin\Debug\net8.0\Bulky.utilities.pdb
+E:\ASP.NET CORE MVC\Bulkybooksprojects\BULKYBOOKSELFMVC\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.csproj.AssemblyReference.cache
+E:\ASP.NET CORE MVC\Bulkybooksprojects\BULKYBOOKSELFMVC\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET CORE MVC\Bulkybooksprojects\BULKYBOOKSELFMVC\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.AssemblyInfoInputs.cache
+E:\ASP.NET CORE MVC\Bulkybooksprojects\BULKYBOOKSELFMVC\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.AssemblyInfo.cs
+E:\ASP.NET CORE MVC\Bulkybooksprojects\BULKYBOOKSELFMVC\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.csproj.CoreCompileInputs.cache
+E:\ASP.NET CORE MVC\Bulkybooksprojects\BULKYBOOKSELFMVC\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.sourcelink.json
+E:\ASP.NET CORE MVC\Bulkybooksprojects\BULKYBOOKSELFMVC\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.csproj.CopyComplete
+E:\ASP.NET CORE MVC\Bulkybooksprojects\BULKYBOOKSELFMVC\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.dll
+E:\ASP.NET CORE MVC\Bulkybooksprojects\BULKYBOOKSELFMVC\Bulky.DataAccess\obj\Debug\net8.0\refint\Bulky.DataAccess.dll
+E:\ASP.NET CORE MVC\Bulkybooksprojects\BULKYBOOKSELFMVC\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.pdb
+E:\ASP.NET CORE MVC\Bulkybooksprojects\BULKYBOOKSELFMVC\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.genruntimeconfig.cache
+E:\ASP.NET CORE MVC\Bulkybooksprojects\BULKYBOOKSELFMVC\Bulky.DataAccess\obj\Debug\net8.0\ref\Bulky.DataAccess.dll

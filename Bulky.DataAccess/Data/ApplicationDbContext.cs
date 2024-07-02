@@ -16,7 +16,7 @@ namespace Bulky.DataAccess.Data
             modelBuilder.Entity<Catogiries>().HasData
                 (
                 new Catogiries { id = 1, Name = "Sowmya", displayorder = 1 },
-                new Catogiries { id = 2, Name = "Ganesh", displayorder = 2 },
+                new Catogiries { id = 2, Name = "Gani", displayorder = 2 },
                 new Catogiries { id = 3, Name = "prf", displayorder = 3 }
 
                 );

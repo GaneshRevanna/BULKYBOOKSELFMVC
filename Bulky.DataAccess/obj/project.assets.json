@@ -4053,11 +4053,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ganesh Revanna\\source\\repos\\Bulkproject\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
+      "projectUniqueName": "E:\\ASP.NET CORE MVC\\Bulkybooksprojects\\BULKYBOOKSELFMVC\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
       "projectName": "Bulky.DataAccess",
-      "projectPath": "C:\\Users\\Ganesh Revanna\\source\\repos\\Bulkproject\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
+      "projectPath": "E:\\ASP.NET CORE MVC\\Bulkybooksprojects\\BULKYBOOKSELFMVC\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
       "packagesPath": "C:\\Users\\Ganesh Revanna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ganesh Revanna\\source\\repos\\Bulkproject\\Bulky.DataAccess\\obj\\",
+      "outputPath": "E:\\ASP.NET CORE MVC\\Bulkybooksprojects\\BULKYBOOKSELFMVC\\Bulky.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ganesh Revanna\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4074,11 +4074,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Ganesh Revanna\\source\\repos\\Bulkproject\\Bulky.models\\Bulky.models.csproj": {
-              "projectPath": "C:\\Users\\Ganesh Revanna\\source\\repos\\Bulkproject\\Bulky.models\\Bulky.models.csproj"
+            "E:\\ASP.NET CORE MVC\\Bulkybooksprojects\\BULKYBOOKSELFMVC\\Bulky.models\\Bulky.models.csproj": {
+              "projectPath": "E:\\ASP.NET CORE MVC\\Bulkybooksprojects\\BULKYBOOKSELFMVC\\Bulky.models\\Bulky.models.csproj"
             },
-            "C:\\Users\\Ganesh Revanna\\source\\repos\\Bulkproject\\Bulky.utilities\\Bulky.utilities.csproj": {
-              "projectPath": "C:\\Users\\Ganesh Revanna\\source\\repos\\Bulkproject\\Bulky.utilities\\Bulky.utilities.csproj"
+            "E:\\ASP.NET CORE MVC\\Bulkybooksprojects\\BULKYBOOKSELFMVC\\Bulky.utilities\\Bulky.utilities.csproj": {
+              "projectPath": "E:\\ASP.NET CORE MVC\\Bulkybooksprojects\\BULKYBOOKSELFMVC\\Bulky.utilities\\Bulky.utilities.csproj"
             }
           }
         }

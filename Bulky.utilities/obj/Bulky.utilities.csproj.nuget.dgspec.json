@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ganesh Revanna\\source\\repos\\Bulkproject\\Bulky.utilities\\Bulky.utilities.csproj": {}
+    "E:\\ASP.NET CORE MVC\\Bulkybooksprojects\\BULKYBOOKSELFMVC\\Bulky.utilities\\Bulky.utilities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ganesh Revanna\\source\\repos\\Bulkproject\\Bulky.utilities\\Bulky.utilities.csproj": {
+    "E:\\ASP.NET CORE MVC\\Bulkybooksprojects\\BULKYBOOKSELFMVC\\Bulky.utilities\\Bulky.utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ganesh Revanna\\source\\repos\\Bulkproject\\Bulky.utilities\\Bulky.utilities.csproj",
+        "projectUniqueName": "E:\\ASP.NET CORE MVC\\Bulkybooksprojects\\BULKYBOOKSELFMVC\\Bulky.utilities\\Bulky.utilities.csproj",
         "projectName": "Bulky.utilities",
-        "projectPath": "C:\\Users\\Ganesh Revanna\\source\\repos\\Bulkproject\\Bulky.utilities\\Bulky.utilities.csproj",
+        "projectPath": "E:\\ASP.NET CORE MVC\\Bulkybooksprojects\\BULKYBOOKSELFMVC\\Bulky.utilities\\Bulky.utilities.csproj",
         "packagesPath": "C:\\Users\\Ganesh Revanna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ganesh Revanna\\source\\repos\\Bulkproject\\Bulky.utilities\\obj\\",
+        "outputPath": "E:\\ASP.NET CORE MVC\\Bulkybooksprojects\\BULKYBOOKSELFMVC\\Bulky.utilities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ganesh Revanna\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h+XlZV30T4CxBJ1WnS/Kws0K+Q0y1geKKv2lXOltETf6wvvulq46zfJzQ+IHi2+D/lu/L4uB2gRkUbrbnPzlUA==",
+  "dgSpecHash": "ND2/4IC8l5h7cq4tg5l9fOzTfYsy2H6Z2LMN+s7wfcWJppk4jkBmhwysAH1a1h0w3NABe7T2I5otR3cqw3k9/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ganesh Revanna\\source\\repos\\Bulkproject\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
+  "projectFilePath": "E:\\ASP.NET CORE MVC\\Bulkybooksprojects\\BULKYBOOKSELFMVC\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ganesh Revanna\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Ganesh Revanna\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

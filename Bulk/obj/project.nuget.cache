@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "viNM3HZD6uHW8EpXV4JDiEFhIyCTDtez+Ob2IzxLkqtT6pmb/uCLC3hm2LYrGE0ZOlZkeNZ+sG3nyYvA/dvmuA==",
+  "dgSpecHash": "02T3/0flyMakfPOcnNzAcSVDNMJzkILiDeukEgXCjF+h0LqGyVQOl5U1tPePkOnjaecXeUFuoIXnOfpa8/KaOQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ganesh Revanna\\source\\repos\\Bulkproject\\Bulk\\Bulk.csproj",
+  "projectFilePath": "E:\\ASP.NET CORE MVC\\Bulkybooksprojects\\BULKYBOOKSELFMVC\\Bulk\\Bulk.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ganesh Revanna\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Ganesh Revanna\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

@@ -17,87 +17,87 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Bulk
 build_property.RootNamespace = Bulk
-build_property.ProjectDir = C:\Users\Ganesh Revanna\source\repos\Bulkproject\Bulk\
+build_property.ProjectDir = E:\ASP.NET CORE MVC\Bulkybooksprojects\BULKYBOOKSELFMVC\Bulk\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Ganesh Revanna\source\repos\Bulkproject\Bulk
+build_property.MSBuildProjectDirectory = E:\ASP.NET CORE MVC\Bulkybooksprojects\BULKYBOOKSELFMVC\Bulk
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Ganesh Revanna/source/repos/Bulkproject/Bulk/Areas/Admin/Views/Catogories/create.cshtml]
+[E:/ASP.NET CORE MVC/Bulkybooksprojects/BULKYBOOKSELFMVC/Bulk/Areas/Admin/Views/Catogories/create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0b2dvcmllc1xjcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ganesh Revanna/source/repos/Bulkproject/Bulk/Areas/Admin/Views/Catogories/Delete.cshtml]
+[E:/ASP.NET CORE MVC/Bulkybooksprojects/BULKYBOOKSELFMVC/Bulk/Areas/Admin/Views/Catogories/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0b2dvcmllc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ganesh Revanna/source/repos/Bulkproject/Bulk/Areas/Admin/Views/Catogories/Edit.cshtml]
+[E:/ASP.NET CORE MVC/Bulkybooksprojects/BULKYBOOKSELFMVC/Bulk/Areas/Admin/Views/Catogories/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0b2dvcmllc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ganesh Revanna/source/repos/Bulkproject/Bulk/Areas/Admin/Views/Catogories/Index.cshtml]
+[E:/ASP.NET CORE MVC/Bulkybooksprojects/BULKYBOOKSELFMVC/Bulk/Areas/Admin/Views/Catogories/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0b2dvcmllc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ganesh Revanna/source/repos/Bulkproject/Bulk/Areas/Admin/Views/Product/create.cshtml]
+[E:/ASP.NET CORE MVC/Bulkybooksprojects/BULKYBOOKSELFMVC/Bulk/Areas/Admin/Views/Product/create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxjcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ganesh Revanna/source/repos/Bulkproject/Bulk/Areas/Admin/Views/Product/Delete.cshtml]
+[E:/ASP.NET CORE MVC/Bulkybooksprojects/BULKYBOOKSELFMVC/Bulk/Areas/Admin/Views/Product/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ganesh Revanna/source/repos/Bulkproject/Bulk/Areas/Admin/Views/Product/Edit.cshtml]
+[E:/ASP.NET CORE MVC/Bulkybooksprojects/BULKYBOOKSELFMVC/Bulk/Areas/Admin/Views/Product/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ganesh Revanna/source/repos/Bulkproject/Bulk/Areas/Admin/Views/Product/Index.cshtml]
+[E:/ASP.NET CORE MVC/Bulkybooksprojects/BULKYBOOKSELFMVC/Bulk/Areas/Admin/Views/Product/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ganesh Revanna/source/repos/Bulkproject/Bulk/Areas/Admin/Views/_ViewImports.cshtml]
+[E:/ASP.NET CORE MVC/Bulkybooksprojects/BULKYBOOKSELFMVC/Bulk/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ganesh Revanna/source/repos/Bulkproject/Bulk/Areas/Admin/Views/_ViewStart.cshtml]
+[E:/ASP.NET CORE MVC/Bulkybooksprojects/BULKYBOOKSELFMVC/Bulk/Areas/Admin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ganesh Revanna/source/repos/Bulkproject/Bulk/Areas/Customer/Views/Home/Index.cshtml]
+[E:/ASP.NET CORE MVC/Bulkybooksprojects/BULKYBOOKSELFMVC/Bulk/Areas/Customer/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ganesh Revanna/source/repos/Bulkproject/Bulk/Areas/Customer/Views/Home/Privacy.cshtml]
+[E:/ASP.NET CORE MVC/Bulkybooksprojects/BULKYBOOKSELFMVC/Bulk/Areas/Customer/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ganesh Revanna/source/repos/Bulkproject/Bulk/Areas/Customer/Views/_ViewImports.cshtml]
+[E:/ASP.NET CORE MVC/Bulkybooksprojects/BULKYBOOKSELFMVC/Bulk/Areas/Customer/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ganesh Revanna/source/repos/Bulkproject/Bulk/Areas/Customer/Views/_ViewStart.cshtml]
+[E:/ASP.NET CORE MVC/Bulkybooksprojects/BULKYBOOKSELFMVC/Bulk/Areas/Customer/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ganesh Revanna/source/repos/Bulkproject/Bulk/Views/Shared/Error.cshtml]
+[E:/ASP.NET CORE MVC/Bulkybooksprojects/BULKYBOOKSELFMVC/Bulk/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ganesh Revanna/source/repos/Bulkproject/Bulk/Views/Shared/_ValidationScriptsPartial.cshtml]
+[E:/ASP.NET CORE MVC/Bulkybooksprojects/BULKYBOOKSELFMVC/Bulk/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ganesh Revanna/source/repos/Bulkproject/Bulk/Views/_ViewImports.cshtml]
+[E:/ASP.NET CORE MVC/Bulkybooksprojects/BULKYBOOKSELFMVC/Bulk/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ganesh Revanna/source/repos/Bulkproject/Bulk/Views/_ViewStart.cshtml]
+[E:/ASP.NET CORE MVC/Bulkybooksprojects/BULKYBOOKSELFMVC/Bulk/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ganesh Revanna/source/repos/Bulkproject/Bulk/Views/Shared/_Layout.cshtml]
+[E:/ASP.NET CORE MVC/Bulkybooksprojects/BULKYBOOKSELFMVC/Bulk/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-2wxkpb39jr

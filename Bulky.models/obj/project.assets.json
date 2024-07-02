@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ganesh Revanna\\source\\repos\\Bulkproject\\Bulky.models\\Bulky.models.csproj",
+      "projectUniqueName": "E:\\ASP.NET CORE MVC\\Bulkybooksprojects\\BULKYBOOKSELFMVC\\Bulky.models\\Bulky.models.csproj",
       "projectName": "Bulky.models",
-      "projectPath": "C:\\Users\\Ganesh Revanna\\source\\repos\\Bulkproject\\Bulky.models\\Bulky.models.csproj",
+      "projectPath": "E:\\ASP.NET CORE MVC\\Bulkybooksprojects\\BULKYBOOKSELFMVC\\Bulky.models\\Bulky.models.csproj",
       "packagesPath": "C:\\Users\\Ganesh Revanna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ganesh Revanna\\source\\repos\\Bulkproject\\Bulky.models\\obj\\",
+      "outputPath": "E:\\ASP.NET CORE MVC\\Bulkybooksprojects\\BULKYBOOKSELFMVC\\Bulky.models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ganesh Revanna\\AppData\\Roaming\\NuGet\\NuGet.Config",

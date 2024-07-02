@@ -10,3 +10,15 @@ C:\Users\Ganesh Revanna\source\repos\Bulkproject\Bulky.utilities\obj\Debug\net8.
 C:\Users\Ganesh Revanna\source\repos\Bulkproject\Bulky.utilities\obj\Debug\net8.0\refint\Bulky.utilities.dll
 C:\Users\Ganesh Revanna\source\repos\Bulkproject\Bulky.utilities\obj\Debug\net8.0\Bulky.utilities.pdb
 C:\Users\Ganesh Revanna\source\repos\Bulkproject\Bulky.utilities\obj\Debug\net8.0\ref\Bulky.utilities.dll
+E:\ASP.NET CORE MVC\Bulkybooksprojects\BULKYBOOKSELFMVC\Bulky.utilities\bin\Debug\net8.0\Bulky.utilities.deps.json
+E:\ASP.NET CORE MVC\Bulkybooksprojects\BULKYBOOKSELFMVC\Bulky.utilities\bin\Debug\net8.0\Bulky.utilities.dll
+E:\ASP.NET CORE MVC\Bulkybooksprojects\BULKYBOOKSELFMVC\Bulky.utilities\bin\Debug\net8.0\Bulky.utilities.pdb
+E:\ASP.NET CORE MVC\Bulkybooksprojects\BULKYBOOKSELFMVC\Bulky.utilities\obj\Debug\net8.0\Bulky.utilities.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET CORE MVC\Bulkybooksprojects\BULKYBOOKSELFMVC\Bulky.utilities\obj\Debug\net8.0\Bulky.utilities.AssemblyInfoInputs.cache
+E:\ASP.NET CORE MVC\Bulkybooksprojects\BULKYBOOKSELFMVC\Bulky.utilities\obj\Debug\net8.0\Bulky.utilities.AssemblyInfo.cs
+E:\ASP.NET CORE MVC\Bulkybooksprojects\BULKYBOOKSELFMVC\Bulky.utilities\obj\Debug\net8.0\Bulky.utilities.csproj.CoreCompileInputs.cache
+E:\ASP.NET CORE MVC\Bulkybooksprojects\BULKYBOOKSELFMVC\Bulky.utilities\obj\Debug\net8.0\Bulky.utilities.sourcelink.json
+E:\ASP.NET CORE MVC\Bulkybooksprojects\BULKYBOOKSELFMVC\Bulky.utilities\obj\Debug\net8.0\Bulky.utilities.dll
+E:\ASP.NET CORE MVC\Bulkybooksprojects\BULKYBOOKSELFMVC\Bulky.utilities\obj\Debug\net8.0\refint\Bulky.utilities.dll
+E:\ASP.NET CORE MVC\Bulkybooksprojects\BULKYBOOKSELFMVC\Bulky.utilities\obj\Debug\net8.0\Bulky.utilities.pdb
+E:\ASP.NET CORE MVC\Bulkybooksprojects\BULKYBOOKSELFMVC\Bulky.utilities\obj\Debug\net8.0\ref\Bulky.utilities.dll
